@@ -244,3 +244,18 @@ h2.bio-title {
   height: auto;
   align-self: flex-start;
 }
+#contact {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+#contact h2 {
+  margin-top: 0;
+}
+
+#contact p {
+  margin: 10px 10px 10px 0;
+  display: inline-block;
+}
